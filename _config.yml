@@ -1,0 +1,6 @@
+title: "eClinibase — Guide (CISSS des Laurentides)"
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
