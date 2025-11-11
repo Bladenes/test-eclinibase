@@ -1,0 +1,15 @@
+title: "eClinibase — Guide (CISSS des Laurentides)"
+theme: minima
+
+# IMPORTANT pour un site de projet (URL /test-eclinibase)
+url: "https://bladenes.github.io"
+baseurl: "/test-eclinibase"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
